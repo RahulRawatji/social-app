@@ -1,0 +1,18 @@
+.create-post-container{
+    padding: 4%;    
+}
+
+.create-post-form{
+    display: flex;
+    flex-direction: column;
+    width: min(50%,800px) ;
+    border: 1px solid gainsboro;
+    padding: 2%;
+    margin-top: 2rem;
+    border-radius: 10px;
+    gap:1.2rem;
+}
+
+.submit_btn:hover{
+    background-color: beige;
+}
